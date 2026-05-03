@@ -1,0 +1,38 @@
+Privacy Policy
+Effective Date: May 3, 2026
+
+This Privacy Policy describes how Weekly Goals ("the App," "we," "us," or "our") handles information when you use our mobile application. By using the App, you agree to the terms described in this policy.
+
+Information We Collect
+
+We do not collect, transmit, store, or process any personal data. All data you enter into the App -- including your goals, progress, templates, categories, and settings -- is stored locally on your device and is not sent to us or any third-party server.
+
+No Analytics or Tracking
+
+The App does not use analytics services, advertising frameworks, crash reporting tools, or any other mechanism that would transmit your data off your device.
+
+Data Storage
+
+Your data resides solely on your device and, if enabled, within your personal iCloud account as part of the device backup process managed by Apple. We do not have access to your device storage or your iCloud account.
+
+Third-Party Services
+
+The App does not integrate with or transmit data to any third-party services. However, the App operates within the Apple ecosystem, and Apple's own privacy policies and data practices apply to your use of your device and operating system.
+
+Disclaimer of Liability
+
+While we do not intentionally collect or disclose your personal data, the App is provided on an "as is" basis. We cannot guarantee that the App is free from vulnerabilities, defects, or errors that could inadvertently result in the disclosure of data stored on your device. To the fullest extent permitted by applicable law:
+
+- We are not responsible for any inadvertent disclosure of your personal data that may occur as a result of software defects, security vulnerabilities, operating system behavior, or third-party interference.
+- We are not responsible for any unauthorized access to data stored on your device, whether caused by the App or by other software or services operating on your device.
+- We are not liable for any direct, indirect, incidental, consequential, or special damages arising from or related to the disclosure or loss of your data.
+
+You are solely responsible for maintaining the security of your device, including keeping your operating system up to date and using appropriate security measures such as a device passcode.
+
+Children's Privacy
+
+The App does not knowingly collect personal information from children under the age of 13. Because no personal data is collected from any user, no special provisions for children's data are necessary.
+
+Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected by an updated effective date at the top of this page. Your continued use of the App following any changes constitutes acceptance of the revised policy.
